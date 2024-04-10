@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\bin\Debug\net8.0\Fundamentos.C#.exe
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\bin\Debug\net8.0\Fundamentos.C#.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\bin\Debug\net8.0\Fundamentos.C#.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\bin\Debug\net8.0\Fundamentos.C#.dll
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\bin\Debug\net8.0\Fundamentos.C#.pdb
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.dll
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\refint\Fundamentos.C#.dll
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.pdb
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\Fundamentos.C#.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Fundamentos.C#\obj\Debug\net8.0\ref\Fundamentos.C#.dll
